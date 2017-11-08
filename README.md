@@ -1,1 +1,1 @@
-# Test
+# Barrick Gold News Analysis
